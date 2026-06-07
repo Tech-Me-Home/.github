@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Website/public/Logo.png" alt="Tech Me Home Logo" width="220">
+  <img src="Logo.png" alt="Tech Me Home Logo" width="220">
 
 # Tech Me Home
 
